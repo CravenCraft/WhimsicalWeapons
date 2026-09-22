@@ -1,0 +1,4 @@
+v0.1
+- Vanilla swords
+- Simply Swords iron -> runic weapons
+- Spartan Weaponry ~ 50% of iron -> netherite weapons
