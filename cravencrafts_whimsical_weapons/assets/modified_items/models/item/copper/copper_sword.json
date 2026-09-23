@@ -1,6 +1,7 @@
 {
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench",
+	"parent": "modified_items:item/diamond/diamond_sword",
 	"textures": {
 		"1": "modified_items:item/copper/copper_sword",
 		"particle": "modified_items:item/copper/copper_sword"
@@ -71,16 +72,15 @@
 			}
 		}
 	],
-
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [180, 90, 0],
+			"rotation": [-180, 90, 0],
 			"translation": [0, 8, 1.25],
 			"scale": [0.6, 0.6, 0.6]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [180, -90, 0],
+			"rotation": [-180, -90, 0],
 			"translation": [0, 8, 1.25],
 			"scale": [0.6, 0.6, 0.6]
 		},
@@ -116,7 +116,7 @@
 	},
 	"groups": [
 		{
-			"name": "sword",
+			"name": "copper_sword",
 			"origin": [8, 8, 8],
 			"scope": 0,
 			"color": 0,

@@ -116,7 +116,7 @@
 	},
 	"groups": [
 		{
-			"name": "sword",
+			"name": "stone_sword",
 			"origin": [8, 8, 8],
 			"scope": 0,
 			"color": 0,
