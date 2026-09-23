@@ -1,6 +1,9 @@
 {
     "pack": {
         "pack_format": 15,
+		"supported_formats": [15, 48],
+		"min_format": 15,
+		"max_format": 48
         "description": "\u00A763D 3D Custom Weapons by CravenCraft"
     }
 }
