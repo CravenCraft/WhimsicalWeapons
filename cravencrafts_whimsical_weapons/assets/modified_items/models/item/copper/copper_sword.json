@@ -1,6 +1,5 @@
 {
-	"format_version": "1.9.0",
-	"credit": "Made with Blockbench",
+	"credit": "Made by CravenCraft with Blockbench",
 	"parent": "modified_items:item/diamond/diamond_sword",
 	"textures": {
 		"1": "modified_items:item/copper/copper_sword",
