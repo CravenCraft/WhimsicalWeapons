@@ -4,4 +4,10 @@ v0.1
 - Spartan Weaponry ~ 50% of iron -> netherite weapons
 
 V0.2
-- Ice & Fire copper sword, dragonbone sword, dragonebone fire sword, & dragonsteel fire sword.
+- Ice & Fire Copper Sword
+- Ice & Fire Dragonbone Sword
+- Ice & Fire Dragonebone Fire Sword
+- Ice & Fire Dragonsteel fire Sword
+
+V0.3
+- Iron Axe
