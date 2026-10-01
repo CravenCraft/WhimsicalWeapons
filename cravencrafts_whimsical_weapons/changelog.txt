@@ -11,3 +11,7 @@ V0.2
 
 V0.3
 - Iron Axe
+- Iron Hoe
+- Iron Pickaxe
+- Iron Shovel
+- Stone Axe

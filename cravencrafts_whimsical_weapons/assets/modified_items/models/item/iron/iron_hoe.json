@@ -65,20 +65,20 @@
 		"thirdperson_righthand": {
 			"rotation": [0, 90, 0],
 			"translation": [0.5, 2, 1.25],
-			"scale": [0.85, 0.85, 0.85]
+			"scale": [0.6, 0.6, 0.6]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [0, -90, 0],
 			"translation": [-0.5, 2, 0.75],
-			"scale": [0.85, 0.85, 0.85]
+			"scale": [0.6, 0.6, 0.6]
 		},
 		"firstperson_righthand": {
-			"rotation": [20, 90, 0],
+			"rotation": [20, 90, -25],
 			"translation": [2, 3.25, 0],
 			"scale": [0.6, 0.6, 0.6]
 		},
 		"firstperson_lefthand": {
-			"rotation": [20, -90, 0],
+			"rotation": [20, -90, 25],
 			"translation": [2, 3.25, 0],
 			"scale": [0.6, 0.6, 0.6]
 		},
